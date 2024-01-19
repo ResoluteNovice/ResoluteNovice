@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ResoluteNovice
 - 👀 I’m interested in Electronics 
-- 💞️ I’m looking to collaborate on IoT and Embedded Systems
+- 💞️ I’m looking to collaborate on IoT and Embedded Systems with AI/ML
 - 📫 How to reach me impusemail12@gmail.com
 - 
